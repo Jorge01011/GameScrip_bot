@@ -1,0 +1,1 @@
+telegram-cli -W --exec "send_text Chat_Wars quest" && sleep 10 && telegram-cli -W --exec "send_text Chat_Wars forest"
